@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://raw.githubusercontent.com/graciegreen1122/test1/master/darthmain.xml"  # url of the root xml file
+root_xml_url = "https://github.com/collector69/thecollector2/blob/master/addon.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "D904BE3753F3CA32"  # tvdb api key
 __builtin__.tmdb_api_key = " dbc5664ff5e7e8d734bd9d61ea77b183 "  # tmdb api key
 __builtin__.trakt_client_id = ""  # trakt client id
